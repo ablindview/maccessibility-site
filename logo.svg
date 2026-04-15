@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 680" width="680" height="680">
+  <title>M12Y – MACCESSIBILITY podcast logo</title>
+  <desc>A deep purple circle with a centered audio waveform – tall bright bars in the middle fading shorter toward the edges. Below the wave, the bold white text M12Y, then MACCESSIBILITY in small lavender capitals at the bottom.</desc>
+
+  <defs>
+    <clipPath id="circle-clip">
+      <circle cx="340" cy="340" r="300"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer ring -->
+  <circle cx="340" cy="340" r="315" fill="none" stroke="#534AB7" stroke-width="3"/>
+
+  <!-- Background circle -->
+  <circle cx="340" cy="340" r="300" fill="#26215C"/>
+
+  <!-- Sound wave -->
+  <g clip-path="url(#circle-clip)">
+    <rect x="72"  y="228" width="7" height="24"  rx="3" fill="#7F77DD" opacity="0.4"/>
+    <rect x="82"  y="222" width="7" height="36"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="92"  y="232" width="7" height="16"  rx="3" fill="#7F77DD" opacity="0.4"/>
+    <rect x="102" y="224" width="7" height="32"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="112" y="218" width="7" height="44"  rx="3" fill="#7F77DD" opacity="0.5"/>
+    <rect x="122" y="230" width="7" height="20"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="132" y="210" width="7" height="60"  rx="3" fill="#7F77DD" opacity="0.55"/>
+    <rect x="142" y="228" width="7" height="24"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="152" y="200" width="7" height="80"  rx="3" fill="#AFA9EC" opacity="0.6"/>
+    <rect x="162" y="224" width="7" height="32"  rx="3" fill="#AFA9EC" opacity="0.55"/>
+    <rect x="172" y="188" width="7" height="104" rx="3" fill="#AFA9EC" opacity="0.65"/>
+    <rect x="182" y="220" width="7" height="40"  rx="3" fill="#AFA9EC" opacity="0.6"/>
+    <rect x="192" y="172" width="7" height="136" rx="3" fill="#AFA9EC" opacity="0.7"/>
+    <rect x="202" y="216" width="7" height="48"  rx="3" fill="#AFA9EC" opacity="0.65"/>
+    <rect x="212" y="155" width="7" height="170" rx="3" fill="#EEEDFE" opacity="0.75"/>
+    <rect x="222" y="210" width="7" height="60"  rx="3" fill="#EEEDFE" opacity="0.7"/>
+    <rect x="232" y="138" width="7" height="204" rx="3" fill="#EEEDFE" opacity="0.85"/>
+    <rect x="242" y="204" width="7" height="72"  rx="3" fill="#EEEDFE" opacity="0.75"/>
+    <rect x="252" y="120" width="7" height="240" rx="3" fill="#EEEDFE" opacity="0.9"/>
+    <rect x="262" y="198" width="7" height="84"  rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="272" y="108" width="7" height="264" rx="3" fill="#EEEDFE" opacity="0.95"/>
+    <rect x="282" y="192" width="7" height="96"  rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="292" y="100" width="7" height="280" rx="3" fill="#FFFFFF" opacity="0.95"/>
+    <rect x="302" y="188" width="7" height="104" rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="312" y="95"  width="7" height="290" rx="3" fill="#FFFFFF" opacity="1.0"/>
+    <rect x="322" y="184" width="7" height="112" rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="332" y="92"  width="7" height="296" rx="3" fill="#FFFFFF" opacity="1.0"/>
+    <rect x="342" y="184" width="7" height="112" rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="352" y="95"  width="7" height="290" rx="3" fill="#FFFFFF" opacity="1.0"/>
+    <rect x="362" y="188" width="7" height="104" rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="372" y="100" width="7" height="280" rx="3" fill="#FFFFFF" opacity="0.95"/>
+    <rect x="382" y="192" width="7" height="96"  rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="392" y="108" width="7" height="264" rx="3" fill="#EEEDFE" opacity="0.95"/>
+    <rect x="402" y="198" width="7" height="84"  rx="3" fill="#EEEDFE" opacity="0.8"/>
+    <rect x="412" y="120" width="7" height="240" rx="3" fill="#EEEDFE" opacity="0.9"/>
+    <rect x="422" y="204" width="7" height="72"  rx="3" fill="#EEEDFE" opacity="0.75"/>
+    <rect x="432" y="138" width="7" height="204" rx="3" fill="#EEEDFE" opacity="0.85"/>
+    <rect x="442" y="210" width="7" height="60"  rx="3" fill="#EEEDFE" opacity="0.7"/>
+    <rect x="452" y="155" width="7" height="170" rx="3" fill="#EEEDFE" opacity="0.75"/>
+    <rect x="462" y="216" width="7" height="48"  rx="3" fill="#AFA9EC" opacity="0.65"/>
+    <rect x="472" y="172" width="7" height="136" rx="3" fill="#AFA9EC" opacity="0.7"/>
+    <rect x="482" y="220" width="7" height="40"  rx="3" fill="#AFA9EC" opacity="0.6"/>
+    <rect x="492" y="188" width="7" height="104" rx="3" fill="#AFA9EC" opacity="0.65"/>
+    <rect x="502" y="224" width="7" height="32"  rx="3" fill="#AFA9EC" opacity="0.55"/>
+    <rect x="512" y="200" width="7" height="80"  rx="3" fill="#AFA9EC" opacity="0.6"/>
+    <rect x="522" y="228" width="7" height="24"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="532" y="210" width="7" height="60"  rx="3" fill="#7F77DD" opacity="0.55"/>
+    <rect x="542" y="230" width="7" height="20"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="552" y="218" width="7" height="44"  rx="3" fill="#7F77DD" opacity="0.5"/>
+    <rect x="562" y="224" width="7" height="32"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="572" y="232" width="7" height="16"  rx="3" fill="#7F77DD" opacity="0.4"/>
+    <rect x="582" y="222" width="7" height="36"  rx="3" fill="#7F77DD" opacity="0.45"/>
+    <rect x="592" y="228" width="7" height="24"  rx="3" fill="#7F77DD" opacity="0.4"/>
+  </g>
+
+  <!-- Divider line -->
+  <line x1="120" y1="415" x2="560" y2="415" stroke="#534AB7" stroke-width="0.75" opacity="0.5"/>
+
+  <!-- Wordmark: M12Y -->
+  <text
+    x="340" y="468"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="system-ui, -apple-system, Helvetica Neue, sans-serif"
+    font-size="100"
+    font-weight="500"
+    letter-spacing="-2"
+    fill="#FFFFFF"
+  >M12Y</text>
+
+  <!-- Tagline -->
+  <text
+    x="340" y="560"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="system-ui, -apple-system, Helvetica Neue, sans-serif"
+    font-size="18"
+    font-weight="400"
+    letter-spacing="4"
+    fill="#AFA9EC"
+  >MACCESSIBILITY</text>
+
+</svg>
